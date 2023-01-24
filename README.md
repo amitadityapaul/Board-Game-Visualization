@@ -1,1 +1,1 @@
-# Social-Progress-in-Board-Games
+# Social-Progress-via-Board-Games
