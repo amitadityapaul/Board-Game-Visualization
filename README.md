@@ -1,1 +1,1 @@
-# Board-Game-Visualization
+# Social-Progress-in-Board-Games
